@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(180, 186, 194);
+    color :rgb(50, 105, 141);
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    padding: 0 24px;
+}
+.cabecalho{
+    font-size: 30px;
+    color: rgb(123, 145, 165);
+}
+
+.titulo-pincipal{
+    font-size: 22px;
+}
+.imagem{
+    width: 30%;
+}
+.rodape{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(12, 34, 59);
+    display: grid;
+    background-color: rgb(171, 181, 201);
+}
